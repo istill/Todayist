@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodayistT</string>
+    <array name="tab_name">
+        <item>달력</item>
+        <item>할 일</item>
+        <item>일기</item>
+        <item>매거진</item>
+        <item>프로필</item>
+    </array>
+
+</resources>
